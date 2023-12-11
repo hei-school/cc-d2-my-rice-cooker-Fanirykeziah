@@ -2,7 +2,7 @@
 StyleCop Analyzers : linter that I use for this project 
 
 ## Installation 
-* .NET sdk 
+* .NET sdk version 8
 * add package styleCop  
 
 ## Running 
