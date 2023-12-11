@@ -23,10 +23,10 @@ This project requires a :
 
 ### Programming languages
 
-[ features/Kotlin ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/kotlin ) branch contains codes for Kotlin.
-[ features/ruby ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/ruby ) branch contains codes for ruby.
-[ features/typescript ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/typescript ) branch contains codes for typescript.
-[ features/C# ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/C# ) branch contains codes for C#.
+* [ features/Kotlin ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/kotlin ) branch contains codes for Kotlin.
+* [ features/ruby ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/ruby ) branch contains codes for ruby.
+* [ features/typescript ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/typescript ) branch contains codes for typescript.
+* [ features/C# ]( https://github.com/hei-school/cc-d2-my-rice-cooker-Fanirykeziah/tree/features/C# ) branch contains codes for C#.
 
 
 
