@@ -1,0 +1,14 @@
+C:\Users\Heritiana\Desktop\riceCooker\bin\Debug\net8.0\riceCooker.exe
+C:\Users\Heritiana\Desktop\riceCooker\bin\Debug\net8.0\riceCooker.deps.json
+C:\Users\Heritiana\Desktop\riceCooker\bin\Debug\net8.0\riceCooker.runtimeconfig.json
+C:\Users\Heritiana\Desktop\riceCooker\bin\Debug\net8.0\riceCooker.dll
+C:\Users\Heritiana\Desktop\riceCooker\bin\Debug\net8.0\riceCooker.pdb
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.AssemblyInfoInputs.cache
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.AssemblyInfo.cs
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.csproj.CoreCompileInputs.cache
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.dll
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\refint\riceCooker.dll
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.pdb
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\riceCooker.genruntimeconfig.cache
+C:\Users\Heritiana\Desktop\riceCooker\obj\Debug\net8.0\ref\riceCooker.dll
